@@ -75,7 +75,8 @@ This result demonstrates the model's strong ability to segment atrial structures
 Contributions are welcome! To contribute:
 ```
 1. **Fork** the repository.  
-2. **Create a new branch:**  
+2. **Create a new branch:**
+git checkout -b feature-branch 
    ```
 
 ## 📜 License
@@ -89,7 +90,7 @@ U-Net developers for the foundational architecture.
 nibabel for neuroimaging data processing.
 
    
-   git checkout -b feature-branch
+   
 
 
 
