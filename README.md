@@ -50,10 +50,10 @@ After training, the model is evaluated on unseen MRI data to validate its perfor
 
 ## 🎥 **Model Evaluation**
 
-<video width="640" height="360" controls>
-  <source src="https://github.com/SYEDFAIZAN1987/Atrium-Segmentation/raw/main/Atrium%20Segmentation%20Evaluated%20on%20a%20subject.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+## 🎥 **Model Evaluation**
+
+[![Click to Watch](https://github.com/SYEDFAIZAN1987/Atrium-Segmentation/blob/main/Atrium%20Segmentation%20Training.png)](https://github.com/SYEDFAIZAN1987/Atrium-Segmentation/raw/main/Atrium%20Segmentation%20Evaluated%20on%20a%20subject.mp4)
+
 
 
 
