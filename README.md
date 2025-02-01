@@ -44,11 +44,7 @@ The training process involves feeding preprocessed MRI slices into the U-Net mod
 
 ---
 
-## 🎥 **Model Evaluation**
 
-After training, the model is evaluated on unseen MRI data to validate its performance. The evaluation includes metrics like **Dice Similarity Coefficient**, **Precision**, and **Recall**.
-
-## 🎥 **Model Evaluation**
 
 ## 🎥 **Model Evaluation**
 
