@@ -2,6 +2,7 @@
 
 Welcome to the **Atrium Segmentation Project**, where we leverage deep learning techniques, specifically the **U-Net architecture**, to perform precise segmentation of the atrium from cardiac MRI scans. This project is designed to assist in medical imaging analysis, enhancing diagnostic capabilities for cardiovascular diseases.
 
+
 ---
 
 ## 📊 **Project Overview**
@@ -36,8 +37,8 @@ The training process involves feeding preprocessed MRI slices into the U-Net mod
 
 ### **Training Details:**
 - **Optimizer:** Adam
-- **Loss Function:** Dice Coefficient Loss + Binary Cross-Entropy
-- **Epochs:** 50 (adjustable)
+- **Loss Function:** Dice Coefficient Loss 
+- **Epochs:** 75 
 - **Batch Size:** 16
 - **Learning Rate:** 0.001
 
@@ -47,12 +48,21 @@ The training process involves feeding preprocessed MRI slices into the U-Net mod
 
 After training, the model is evaluated on unseen MRI data to validate its performance. The evaluation includes metrics like **Dice Similarity Coefficient**, **Precision**, and **Recall**.
 
-### **Evaluation Video:**
+## 🎥 **Model Evaluation**
 
-[![Evaluation Video](https://github.com/SYEDFAIZAN1987/Atrium-Segmentation/blob/main/Atrium%20Segmentation%20Evaluated%20on%20a%20subject.mp4)
+<video width="640" height="360" controls>
+  <source src="https://github.com/SYEDFAIZAN1987/Atrium-Segmentation/raw/main/Atrium%20Segmentation%20Evaluated%20on%20a%20subject.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
----
+
 
 ## 🗂️ **Project Structure**
+```
+Atrium-Segmentation/ ├── data/ # Raw MRI images and labels ├── Preprocessed/ # Processed images and masks ├── models/ # Trained model weights ├── utils/ # Helper functions for data handling ├── notebooks/ # Jupyter notebooks for EDA and model training ├── Atrium Segmentation Evaluated on a subject.mp4 ├── Atrium Segmentation Training.png ├── unet.png └── README.md # Project documentation
+```
+
+
+
 
  
