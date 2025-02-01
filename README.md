@@ -47,7 +47,7 @@ The training process involves feeding preprocessed MRI slices into the U-Net mod
 
 
 ## 🎥 **Model Evaluation**
-
+Click on the image below to watch a sample MRI tested using the model 
 [![Click to Watch](https://github.com/SYEDFAIZAN1987/Atrium-Segmentation/blob/main/Atrium%20Segmentation%20Training.png)](https://github.com/SYEDFAIZAN1987/Atrium-Segmentation/raw/main/Atrium%20Segmentation%20Evaluated%20on%20a%20subject.mp4)
 
 
