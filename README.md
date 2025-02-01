@@ -73,10 +73,22 @@ This result demonstrates the model's strong ability to segment atrial structures
 ## 🤝 **Contributing**
 
 Contributions are welcome! To contribute:
-
+```
 1. **Fork** the repository.  
 2. **Create a new branch:**  
-   ```bash
+   ```
+
+## 📜 License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## 🙌 Acknowledgments
+Special thanks to:
+
+The medical imaging community for datasets and resources.
+U-Net developers for the foundational architecture.
+nibabel for neuroimaging data processing.
+
+   
    git checkout -b feature-branch
 
 
