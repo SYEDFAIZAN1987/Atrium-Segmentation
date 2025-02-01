@@ -2,7 +2,7 @@
 
 Welcome to the **Atrium Segmentation Project**, where we leverage deep learning techniques, specifically the **U-Net architecture**, to perform precise segmentation of the atrium from cardiac MRI scans. This project is designed to assist in medical imaging analysis, enhancing diagnostic capabilities for cardiovascular diseases.
 
-
+[![Sample Augmentation](https://github.com/SYEDFAIZAN1987/Atrium-Segmentation/blob/main/Sample%20Augmentation.png)
 ---
 
 ## 📊 **Project Overview**
