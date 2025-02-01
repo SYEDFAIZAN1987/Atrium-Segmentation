@@ -47,7 +47,7 @@ The training process involves feeding preprocessed MRI slices into the U-Net mod
 
 
 ## 🎥 **Model Evaluation**
-Click on the image below to watch a sample MRI tested using the model 
+Click on the image below to download and watch a sample MRI tested using the model 
 
 
 
@@ -60,6 +60,24 @@ Click on the image below to watch a sample MRI tested using the model
 ```
 Atrium-Segmentation/ ├── data/ # Raw MRI images and labels ├── Preprocessed/ # Processed images and masks ├── models/ # Trained model weights ├── utils/ # Helper functions for data handling ├── notebooks/ # Jupyter notebooks for EDA and model training ├── Atrium Segmentation Evaluated on a subject.mp4 ├── Atrium Segmentation Training.png ├── unet.png └── README.md # Project documentation
 ```
+## 📈 **Results**
+
+The U-Net model achieves:
+
+- **Dice Similarity Coefficient (DSC):** 0.95
+
+This result demonstrates the model's strong ability to segment atrial structures accurately.
+
+---
+
+## 🤝 **Contributing**
+
+Contributions are welcome! To contribute:
+
+1. **Fork** the repository.  
+2. **Create a new branch:**  
+   ```bash
+   git checkout -b feature-branch
 
 
 
